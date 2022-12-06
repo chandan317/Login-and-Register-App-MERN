@@ -6,6 +6,7 @@ const Register = () => {
     <div className="register">
       <h1>Register</h1>
       <h2>reg</h2>
+      <h3>hii</h3>
       <input type="text" placeholder="Your Name" />
       <input type="text" placeholder="Your Email" />
       <input type="password" placeholder="Your Password" />
